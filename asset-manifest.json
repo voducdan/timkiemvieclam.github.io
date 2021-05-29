@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/timkiemvieclam.github.io/static/css/main.f3a415fd.chunk.css",
+    "main.js": "/timkiemvieclam.github.io/static/js/main.8120919b.chunk.js",
+    "main.js.map": "/timkiemvieclam.github.io/static/js/main.8120919b.chunk.js.map",
+    "runtime-main.js": "/timkiemvieclam.github.io/static/js/runtime-main.e71e22ef.js",
+    "runtime-main.js.map": "/timkiemvieclam.github.io/static/js/runtime-main.e71e22ef.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/timkiemvieclam.github.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6390426d.chunk.js": "/timkiemvieclam.github.io/static/js/2.6390426d.chunk.js",
+    "static/js/2.6390426d.chunk.js.map": "/timkiemvieclam.github.io/static/js/2.6390426d.chunk.js.map",
+    "static/js/3.398678b0.chunk.js": "/timkiemvieclam.github.io/static/js/3.398678b0.chunk.js",
+    "static/js/3.398678b0.chunk.js.map": "/timkiemvieclam.github.io/static/js/3.398678b0.chunk.js.map",
+    "index.html": "/timkiemvieclam.github.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/timkiemvieclam.github.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f3a415fd.chunk.css.map": "/timkiemvieclam.github.io/static/css/main.f3a415fd.chunk.css.map",
+    "static/js/2.6390426d.chunk.js.LICENSE.txt": "/timkiemvieclam.github.io/static/js/2.6390426d.chunk.js.LICENSE.txt",
+    "static/media/login.scoped.css": "/timkiemvieclam.github.io/static/media/Poppins-Regular.1c701c9a.ttf",
+    "static/media/font-awesome.min.css": "/timkiemvieclam.github.io/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e71e22ef.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6390426d.chunk.js",
+    "static/css/main.f3a415fd.chunk.css",
+    "static/js/main.8120919b.chunk.js"
+  ]
+}
